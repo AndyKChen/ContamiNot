@@ -1,5 +1,5 @@
 # ContamiNot
-ContamiNot is a web application that detects and notifies when the user touches their face in order to prevent the spread of COVID-19. The facial recognition detector runs in the background so while you're using your computer you will receive immediate reminders to put an end to this habit. The application also keeps track of duration you touch your face and visualizes it in a graph. 
+ContamiNot is a web application that detects and notifies when the user touches their face in order to prevent the spread of COVID-19. The facial recognition detector runs in the background so while you're using your computer you will receive immediate reminders to put an end to this habit. The application also keeps track of duration you touch your face and visualizes it in a graph. Built during TOHacks2020!
 
 # Inspiration
 As public health officials repeatedly advise people to stop touching their faces in order to protect themselves against the new coronavirus, many individuals are starting to notice how often they do it and how difficult it is to stop.
